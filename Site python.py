@@ -14,7 +14,7 @@ from jinja2 import Environment, DictLoader
 # #################################################################
 
 # 🚨 CHEMIN DU FICHIER DE DONNÉES (CHEMIN ABSOLU SPÉCIFIÉ)
-DATA_FILE = r'C:\Users\poppm\Desktop\site sql\data.json'
+DATA_FILE = r'heracraft/data.json'
 DATE_FORMAT = "%Y-%m-%d %H:%M:%S"
 
 def create_initial_data():
@@ -1293,4 +1293,5 @@ def gerer_gemmes_detail(user_id):
 
 if __name__ == '__main__':
     load_data() 
+
     app.run(debug=True)
