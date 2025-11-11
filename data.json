@@ -1,0 +1,19 @@
+{
+  "last_user_id": 3,
+  "last_article_id": 2,
+  "users": [
+    
+  ],
+  "articles": [
+    {
+      "id": 2,
+      "titre": "D\u00e9but du serv ",
+      "contenu": "bonjour je suis kiroto je suis le Fondateur de serveur et pour l'instant je suis entrain de r\u00e9alis\u00e9 le site internet qui va vous \u00eates tr\u00e8s utile",
+      "auteur_id": 3,
+      "date_publication": "2025-11-10 15:48:29"
+    }
+  ],
+  "shop_items": [
+  ],
+  "last_shop_item_id": 1
+}
